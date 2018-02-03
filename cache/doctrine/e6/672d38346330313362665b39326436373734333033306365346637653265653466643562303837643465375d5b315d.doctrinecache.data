@@ -1,0 +1,290 @@
+1518282437
+a:2:{s:7:"content";s:25416:"<section id="inicio">
+    <div class="banner">
+        <h2>Compramos por ti en IKEA todas las semanas</h2>
+        <img src="/images/banner01.jpg" title="IKExtremadura compra por ti" style="display:block;margin:0 auto;max-width:100%;">
+        <div style="text-center">
+            <em>TODAS LAS SEMANAS COMPRAMOS EN IKEA Y LE ENTREGAMOS SU MERCANCIA EN NUESTRO PUNTO DE RECOGIDA EN CÁCERES O EN SU DOMICILIO</em>
+            <div class="h4"><strong>¡USTED ELIGE!</strong></div>
+        </div>
+    </div>
+    <p style="font-size:110%;">En <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> acercamos IKEA a las provincias de CÁCERES y BADAJOZ. Compramos por usted en IKEA al mejor precio, rápido, sencillo y con un servicio de confianza, y se lo entregamos en nuestros almacenes o en su domicilio. Verá que fácil es amueblar su casa u oficina con nuestra ayuda.</p>
+    <p style="font-size:110%;">Y si desea saber más sobre <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span>, por favor utilice nuestro <a href="#contacto">formulario de contacto</a> o llámenos al teléfono <a href="tel:+34608442272">608442272</a>, al fijo <a href="tel:+34927269036">927269036</a> o si lo prefiere escríbanos por <a href="https://api.whatsapp.com/send?phone=+34608442272&text=Hola%20IKExtremadura!%20">whatsapp</a>.</p>
+    <div class="container-flex">
+        <a href="#pedido" class="m-card">
+            <div>
+                <img src="/images/tarjeta01.jpg" title="¿QUÉ PUEDO COMPRAR?" class="card-image">
+                <div class="card-title">¿QUÉ PUEDO COMPRAR?</div>
+            </div>
+            <div class="card-container">
+                <p>Nos puede encargar que compremos por usted cualquiera de los más de 8.000 artículos disponibles en las tiendas de IKEA en Madrid y Sevilla, <em>salvo productos refrigerados o congelados</em>. Sin pedido mínimo.</p>
+            </div>
+        </a>
+        <a href="#tarifas" class="m-card">
+            <div>
+                <img src="/images/tarjeta02.jpg" title="¿CÓMO ABONO MIS COMPRAS?" class="card-image">
+                <div class="card-title">¿CÓMO ABONO MIS COMPRAS?</div>
+            </div>
+            <div class="card-container">
+                <p>Sin anticipos, nosotros adelantamos el dinero por usted, el pago lo realizará a la entrega del pedido. Lo puede hacer en efectivo o mediante tarjeta de crédito, como usted quiera. En su domicilio o en nuestro punto de entrega.</p>
+            </div>
+        </a>
+        <a href="#tarifas" class="m-card">
+            <div>
+                <img src="/images/tarjeta03.jpg" title="¿CUÁNDO RECIBO MI PEDIDO?" class="card-image">
+                <div class="card-title">¿CUÁNDO RECIBO MI PEDIDO?</div>
+            </div>
+            <div class="card-container">
+                <p>Acudimos a IKEA todas las semanas para que tenga su pedido disponible en nuestro almacén de Cáceres en menos de una semana (para pedidos sin rotura de stock). Si prefiere se lo llevemos a su domicilio antes de 10 días, acordaremos con usted la fecha y hora de entrega.</p>
+            </div>
+        </a>
+        <a href="#tarifas" class="m-card">
+            <div>
+                <img src="/images/tarjeta04.png" title="COSTE DE NUESTROS SERVICIOS" class="card-image">
+                <div class="card-title">COSTE DE NUESTROS SERVICIOS</div>
+            </div>
+            <div class="card-container">
+                <p>Sin anticipos y sin pedidos mínimos. En Ikextremadura hacemos la compra por usted en IKEA y se la servimos en nuestro almacén de Cáceres por un 20% del total de tu pedido (IVA incluido). Pague cuando recoja su pedido, en efectivo o mediante tarjeta de crédito.</p>
+            </div>
+        </a>
+        <a href="#montaje" class="m-card">
+            <div>
+                <img src="/images/tarjeta05.jpg" title="MONTAMOS SUS MUEBLES" class="card-image">
+                <div class="card-title">MONTAMOS SUS MUEBLES</div>
+            </div>
+            <div class="card-container">
+                <p>Si lo desea, nuestros socios especialistas montarán sus muebles. Solicite un presupuesto sin compromiso. No hay una tarifa fija dado que cada artículo tiene una dificultad y tiempo de montaje, cuantos más muebles se soliciten montar más económico será.</p>
+            </div>
+        </a>
+        <a href="#transporte" class="m-card">
+            <div>
+                <img src="/images/tarjeta07.jpg" title="TRANSPORTE" class="card-image">
+                <div class="card-title">TRANSPORTE</div>
+            </div>
+            <div class="card-container">
+                <p>Si lo prefiere, podemos llevarle su compra a casa. Este servicio tiene un coste adicional con independencia del importe del pedido. Cáceres capital: 25€ (sin IVA), hasta 50km. de Cáceres: 45€ (sin IVA) , hasta 100 Km. de Cáceres: 60€ (sin IVA), para
+                    distancias mayores, <strong>consúltenos</strong>.</p>
+            </div>
+        </a>
+        <a href="#garantia" class="m-card">
+            <div>
+                <img src="/images/tarjeta06.jpg" title="¿Y SI ALGO VIENE MAL?" class="card-image">
+                <div class="card-title">¿Y SI ALGO VIENE MAL?</div>
+            </div>
+            <div class="card-container">
+                <p>Nos hacemos cargo, sin coste adicional, dentro de las tres semanas desde la recepción del pedido. Es IKEA quién decide si la devolución del producto está dentro de sus condiciones de garantía, por lo que le efectuaremos el cambio o reembolso una vez aceptada la devolución.</p>
+            </div>
+        </a>
+        <a href="#family" class="m-card">
+            <div>
+                <img src="/images/tarjeta08.jpg" title="TARJETA IKEA FAMILY" class="card-image">
+                <div class="card-title">TARJETA IKEA FAMILY</div>
+            </div>
+            <div class="card-container">
+                <p>En <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> siempre utilizamos la tarjeta IKEA FAMILY al realizar nuestras compras consiguiendo tus artículos al mejor precio y aprovechando todas las ofertas. También se beneficiará de la ampliación del plazo de devoluciones en todos los productos IKEA.</p>
+            </div>
+        </a>
+    </div>
+</section>
+<section id="pedido">
+    <div class="banner" style="margin:2rem auto 3rem;">
+        <img src="/images/tarjeta01.jpg" title="HAGA SU PEDIDO" style="max-width:560px;display:block;margin: auto;width: 100%;">
+        <h3 style="max-width:560px;height: 100%;display: table;vertical-align: middle;">
+            <span style="display: table-cell;vertical-align: middle;color: inherit;">Haga su pedido en sólo 4 pasos</span>
+        </h3>
+    </div>
+    <div class="container-fluid">
+        <div class="col-xs-12 col-md-4" style="background:#FFF;border:solid 1px #CDCDCD;border-radius:2px;margin-bottom:1rem;">
+            <ol style="padding:1rem;">
+                <li>Entre en la web de <a href="https://www.ikea.com/es/es/" target="_blank">IKEA</a>.</li>
+                <li>Cree una <a href="http://www.ikea.com/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=11&langId=-5" target="_blank">lista de la compra</a>.</li>
+                <li>Haga click en <kbd>enviar por email</kbd>, <i><strong>rellene el mensaje con sus datos</strong></i>(nombre, apellidos, teléfono, dirección, indicándonos si quiere el pedido en su domicilio y/o que se lo montemos.</li>
+                <li>En el campo de direcciones, escriba <a href="mailto:pedidos@ikextremadura.es">pedidos@ikextremadura.es</a> (nos enviará su lista de la compra). Además puede poner también su email para recibir una copia (PDF IKEA).
+            </ol>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class="h4">LE ENVIAREMOS UN CORREO DE CONFIRMACIÓN</div>
+            <p>En menos de una semana podrá recoger el pedido en nuestras instalaciones (le avisamos) o lo recibirá en su domicilio si nos lo solicita.
+            Si tiene alguna pregunta no dude en consultarnos, utilice el formulario de <a href="#contacto">CONTACTO</a>, llámenos al <a href="tel:+34608442272">608442272</a>.</p>
+        </div>
+        <div class="col-xs-12 col-sm-8 col-md-4" style="background:#FFF;border:solid 1px #CDCDCD;border-radius:2px;padding-bottom:1rem;">
+            <div class="h4">OTRAS FORMAS DE HACER SU PEDIDO</div>
+            <p>Si lo prefiere también puede generar el PDF desde la página de IKEA, volver <a href="www.ikextremadura.es" target="_blank">aquí</a> y en <kbd>PEDIDOS</kbd> introducir sus datos en el formulario y adjuntar este PDF.</p>
+            <p>Además, una vez generado el PDF de su lista de la compra puede enviarlo adjunto a <a href="mailto:pedidos@ikextremadura.es">pedidos@ikextremadura.es</a> o desde <a href="https://api.whatsapp.com/send?phone=+34608442272&text=Hola%20IKExtremadura!%20">whatsapp</a> enviando el PDF. No olvide escribir sus datos personales, son imprescindibles para hacer su pedido.</p>
+            <p>También puede hacerlo por teléfono, llámenos al <a href="tel:+34608442272">608442272</a> o al <a href="tel:+34927269036">927269036</a>.</p>
+        </div>
+    </div>
+    <hr>
+<form action="/ikextremadura/mail.php" method="post" style="border:solid 2px #DCDCDC;background:white;margin:1.5rem 1rem;padding:1.5rem 1rem;border-radius:3px;">
+    <p class="alert alert-warning"><span class="glyphicon glyphicon-warning-sign" style="color:inherit"><strong>&nbsp;Aviso: </strong></span>Todos los campos son obligatorios:</p>
+  <div class="form-group">
+    <label class="sr-only" for="name">Nombre:</label>
+    <div class="input-group">
+      <div class="input-group-addon">Nombre:</div>
+      <input type="text" class="form-control" id="name" name="name">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="sr-only" for="mail">Correo:</label>
+    <div class="input-group">
+      <div class="input-group-addon">&nbsp;Correo:&nbsp;</div>
+      <input type="mail" class="form-control" id="mail" name="mail">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="sr-only" for="phone">Telefono:</label>
+    <div class="input-group">
+      <div class="input-group-addon">Telefono:</div>
+      <input type="tel" class="form-control" id="phone" name="phone">
+    </div>
+  </div>
+  <label for="comment">Comentario:</label>
+  <textarea class="form-control" rows="3" id="comment" name="comment"></textarea>
+  <button type="submit" class="btn btn-default" style="margin-top:1.5rem;">Enviar</button>
+</form>
+    <div id="lopd" style="padding-top:3.4rem">
+        <div class="h4"><strong>Nuestro compromiso con la Ley Orgánica de Protección de Datos:</strong></div>
+        <p><em>En cumplimiento de lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, le informamos que los datos que nos facilite mediante la cumplimentación del presente formulario y con la documentación que aporte a <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> (marca comercial de AUTOCOZAR EXTREMADURA S.L.U.), pasará a formar parte de un fichero propiedad de <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> y se utilizará únicamente para la prestación, gestión y administración de los servicios contratados. Igualmente, le informamos que puede ejercer sus derechos de acceso, rectificación, cancelación y oposición en AUTOCOZAR EXTREMADURA S.L.C/ Hojalateros,17. Cáceres–10005. <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> en ningún caso será responsable de la licitud, veracidad y exactitud de los datos facilitados. Queda bajo su exclusiva responsabilidad la notificación a <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> de cualquier modificación en los mismos. Asimismo le informamos que sus datos de contacto pasarán a formar parte de un fichero propiedad de <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> con la finalidad de realizar controles de satisfacción, así como para el envío de información, por canales ordinarios o electrónicos, relativa a productos y servicios que <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> prestan actualmente o decidan prestar en un futuro, conservándose con esta finalidad hasta que nos indique su manifestación expresa en contrario.</em></p>
+</div>
+</section>
+<section id="tarifas">
+    <div class="banner" style="margin:2rem auto 3rem;">
+        <img src="/images/tarjeta02.jpg" title="HAGA SU PEDIDO" style="max-width:560px;display:block;margin: auto;width: 100%;">
+        <h3 style="max-width:560px;height: 100%;display: table;vertical-align: middle;">
+            <span style="display: table-cell;vertical-align: middle;color: inherit;">Nuestras tarifas</span>
+        </h3>
+    </div>
+    <div class="container-flex">
+        <div class="t-card">
+            <div>
+                <div class="card-title"><strong>SIN ANTICIPOS.</strong></div>
+            </div>
+            <div class="card-container">
+                <p>Nosotros adelantamos el dinero por usted, pague al recibir su pedido.</p>
+            </div>
+        </div>
+        <div class="t-card">
+            <div>
+                <div class="card-title"><strong>PAGUE CUANDO RECOJA SU PEDIDO.</strong></div>
+            </div>
+            <div class="card-container">
+                <p>Puede hacerlo en efectivo o mediante tarjeta de crédito</p>
+            </div>
+        </div>
+        <div class="t-card">
+            <div>
+                <div class="card-title"><strong>NECESITO FACTURA DE IKEA.</strong></div>
+            </div>
+            <div class="card-container">
+                <p>No hay problema, sólo recuerde indicárnoslo cuando realice su pedido.</p>
+            </div>
+        </div>
+        <div class="t-card">
+            <div>
+                <div class="card-title"><strong>NO TENEMOS PEDIDOS MÍNIMOS.</strong></div>
+            </div>
+            <div class="card-container">
+                <p>Puede elegir cualquiera de los más de 8.000 productos del catálogo de IKEA (Salvo productos refrigerados o congelados) y nosotros se lo servimos.</p>
+            </div>
+        </div>
+        <div class="t-card">
+            <div>
+                <div class="card-title"><strong>HACEMOS LA COMPRA POR USTED.</strong></div>
+            </div>
+            <div class="card-container">
+                <p>En las tiendas de IKEA en Madrid y se la servimos en nuestro almacén de Cáceres por tan sólo un 20% del total de su pedido (IVA incluido).</p>
+            </div>
+        </div>
+        <div class="t-card">
+            <div>
+                <div class="card-title" style="font-size:95%;"><strong>¿CUÁNTO TIEMPO TENGO PARA RECOGER MI PEDIDO EN EL ALMACÉN DE <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span>?</strong></div>
+            </div>
+            <div class="card-container">
+                <p style="font-size:95%;">Su pedido estará disponible en nuestro almacén de <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> en CÁCERES durante tres semanas, pasado ese plazo procederemos a realizar su devolución.</p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        <div id="transporte" style="padding-top:3.4rem"  class="col-xs-12 col-sm-7">
+            <div class="h4"><strong>TRANSPORTE</strong><br>(LE LLEVAMOS SU PEDIDO A CASA)</div>
+            <p>Si lo prefiere, podemos llevarle su compra a casa. Dependiendo del día que efectúe su pedido, puede recibirlo al día siguiente o como máximo en diez días (Siempre y cuando no haya roturas de stock en IKEA). Acordaremos con usted la fecha y hora de entrega.</p>
+            <p>Este servicio tiene un coste adicional dependiendo de la distancia a la que se haga la entrega, siempre es el mismo, independientemente de cual sea el importe del pedido:</p>
+            <ul style="padding: 20px;">
+                <li>Cáceres capital: 25€ (sin IVA)</li>
+                <li>Hasta 50km. de Cáceres: 45€ (sin IVA)</li>
+                <li>Hasta 100 Km. de Cáceres: 60€ (sin IVA)</li>
+                <li>Para poblaciones a mayor distancia, <a href="#contacto">consúltenos</a></li>
+            </ul>
+        </div>
+        <div id="montaje" style="padding-top:3.4rem" class="col-xs-12 col-sm-5">
+            <div class="h4"><strong>MONTAJE</strong><br>(MONTAMOS SUS MUEBLES)</div>
+            <p>Si lo desea nuestros socios especialistas montarán sus muebles. Solicite un presupuesto sin compromiso. No hay una tarifa fija porque cada artículo tiene una dificultad y tiempo de montaje, cuantos más muebles le montemos, más económico será. <a href="#contacto">CONSÚLTENOS</a>.</p>
+        </div>
+    </div>
+</section>
+<section id="garantia">
+    <div class="banner" style="margin:2rem auto 3rem;">
+        <img src="/images/tarjeta08.jpg" title="HAGA SU PEDIDO" style="max-width:560px;display:block;margin: auto;width: 100%;">
+        <h3 style="max-width:560px;height: 100%;display: table;vertical-align: middle;">
+            <span style="display: table-cell;vertical-align: middle;color: inherit;">Nuestras garantías</span>
+        </h3>
+    </div>
+    <div class="h4">¿PUEDO ANULAR MI PEDIDO?</div>
+    <p>Claro que sí. Para pedidos a recoger en los almacenes de <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> puede anularlo hasta el momento anterior a la recogida y pago del mismo. Para pedidos con entrega a domicilio avisándonos con 48 horas de antelación. Sólo tiene que llamarnos <a href="tel:+34608442272">608442272</a> o enviarnos un email a <a href="mailto:pedidos@ikextremadura.es">pedidos@ikextremadura.es</a>.</p>
+    <div class="h4">¿QUÉ PASA SI ALGO VIENE DEFECTUOSO?</div>
+    <p>No se preocupe, nosotros nos hacemos cargo de la devolución y el cambio, sin ningún coste adicional, siempre que nos lo comunique dentro de las cuatro semanas siguientes a la recepción del pedido, pasado ese plazo añadiremos una pequeña cantidad por gastos de gestión <a href="#contacto">consúltenos</a>.</p>
+    <p>Aunque IKEA ofrece 120 días de garantía, 180 días con la tarjeta IKEA FAMILY, nosotros necesitamos unos días para recepcionar su pedido y devolverlo a Madrid, por ello es necesario que nos comunique su intención de devolver el pedido antes de que transcurran 160 días de la fecha que aparece en su ticket de compra IKEA.</p>
+    <p>Recuerde que es IKEA quién decide si la devolución del producto está dentro de sus condiciones de garantía, por lo que le efectuaremos el cambio o reembolso una vez aceptada la devolución.</p>
+    <p>Consultar <a href="http://www.ikea.com/ms/es_ES/customer-service/about-shopping/return-policy/index.html" target="_blank">la política de devoluciones de IKEA</a>.</p>
+    <div class="h4">¿CUÁNTO TIEMPO TENGO PARA RECOGER MI PEDIDO EN EL ALMACÉN?</div>
+    <p>Su pedido estará disponible en nuestro almacén de <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> en CÁCERES durante tres semanas, pasado ese plazo procederemos a realizar su devolución.</p>
+    <p>Le mantendremos informado de todo el proceso mediante email. Recuerde que el horario de nuestros almacenes es:</p>
+    <strong>L a V:</strong> 10h.-14h. y 17h.-19.30h.<br>
+    <strong>Sábados:</strong> 10h.-14h.<br>
+    <div class="h4">¿ME BENEFICIARÉ DE LAS VENTAJAS DE LA TARJETA IKEA?</div>
+    <p>Con <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> puede beneficiarse de todas las ventajas de la tarjeta IKEA FAMILY. Siempre utilizamos la tarjeta IKEA FAMILY al realizar nuestras compras consiguiendo sus artículos al mejor precio y aprovechando todas las ofertas.</p>
+    <p>También se beneficiará de la ampliación del plazo de devoluciones a 180 días en todos los productos IKEA, deberá recordar que nosotros necesitamos unos días para recepcionar su pedido y devolverlo a Madrid, por ello es necesario que nos comunique su intención de devolver el pedido antes de que transcurran 160 días de la fecha que aparece en su ticket de compra IKEA.</p>
+    <p>Consultar <a href="http://www.ikea.com/ms/es_ES/customer-service/about-shopping/return-policy/index.html" target="_blank">la política de devoluciones de IKEA</a>.</p>
+</section>
+<section id="quien">
+    <div class="banner" style="margin:2rem auto 3rem;">
+        <img src="/images/logo.jpg" title="HAGA SU PEDIDO" style="max-width:560px;display:block;margin: auto;width: 100%;">
+        <h3 style="max-width:560px;height: 100%;display: table;vertical-align: middle;">
+            <span style="display: table-cell;vertical-align: middle;color: inherit;">¿Quiénes somos?</span>
+        </h3>
+    </div>
+    <div class="h5"><strong>NO SOMOS IKEA</strong></div>
+    <p>No formamos parte del grupo empresarial de IKEA. Somos una empresa extremeña independiente, radicada en Cáceres.</p>
+    <p>En <span style="color:#003BFE">IKE<i style="color:#426C00;">xtremadura</i></span> acercamos IKEA a las provincias de Cáceres y Badajoz. Todas las semanas nos encargamos de comprar por usted en las tiendas de IKEA en Madrid y Sevilla, al mejor precio, rápido, sencillo y con un servicio de confianza y entregarle su pedido en nuestros almacenes de CÁCERES, o si lo prefiere, en su domicilio en un plazo máximo de 10 días desde que realice el pedido (salvo roturas de stock en IKEA). Puede elegir entre los más de 8.000 productos del catálogo de IKEA (exceptuando productos refrigerados y congelados).</p>
+    <div class="h5"><strong>¿DÓNDE ESTÁN NUESTROS ALMACENES?</strong></div>
+    <p>Estamos en Cáceres, C/ Torre de Floripes,3. C.P:10005. <a href="https://maps.google.es/maps?q=google+maps+Torre%20de%20Floripes,3.+Caceres&ie=UTF-8&ei=g1g2U-egI-Sd0AWZ5IGACw&ved=0CAYQ_AUoAQ/" target="_blank">Ir a Google Maps</a></p>
+    <div class="h4" style="padding-top:3.4rem" >Aviso Legal</div>
+    <div class="container-fluid">
+        <div class="col-xs-12 col-sm-8">
+            <p>Este sitio web ha sido creado por la empresa Auto Cozar Extremadura S.L.U. con carácter informativo y para uso personal de los usuarios.A través de este Aviso legal, se pretende regular el acceso y uso de este sitio web, así como la relación entre el sitio web y sus usuarios. Accediendo a este sitio web se aceptan los siguientes términos y condiciones: El acceso a este sitio web es responsabilidad exclusiva de los usuarios.</p>
+            <p>El simple acceso a este sitio web no supone entablar ningún tipo de relación comercial entre Auto Cozar Extremadura S.L.U. y el usuario.</p>
+            <p>El acceso y la navegación en este sitio web supone aceptar y conocer las advertencias legales, condiciones y términos de uso contenidas en ella.</p>
+            <p>El titular del sitio web puede ofrecer servicios o productos que podrán encontrarse sometidos a unas condiciones particulares propias que, según los casos, sustituyan, completen y/o modifiquen las presentes condiciones, y sobre las cuales se informará al usuario en cada caso concreto.</p>
+            <p>En cumplimiento del artículo 10 de la Ley 34/2002, del 11 de julio, de servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE) se exponen a continuación los datos identificativos de la empresa.</p>
+        </div>
+        <div class="col-xs-12 col-sm-4" style="padding:32px 16px 16px;">
+            <p><strong>Denominación social:</strong><br>Auto Cozar Extremadura S.L.U.</p>
+            <p><strong>Número de identificación fiscal:</strong><br>B91956649</p>
+            <p><strong>Domicilio social:</strong><br>Cl/ Hojalateros 17, 10005 Cáceres</p>
+            <p><strong>Correo electrónico:</strong><br>autocoex@hotmail.com</p>
+            <p><strong>Teléfono:</strong> 927269036</p>
+            <p><strong>Fax:</strong> 927230546</p>
+            <p>Leer nuestro compromiso con la <a href="#lopd">Ley Orgánica de protección de datos</a>.</p>
+        </div>
+    </div>
+</section>
+<!--
+En caso de no estar interesado en recibir dicha información le rogamos lo comunique a info@ikextremadura.es
+La cumplimentación de los campos, marcados con un (*), recogidos en este formulario, tienen carácter obligatorio y supone su consentimiento expreso al tratamiento de sus datos personales con las finalidades indicadas, la cumplimentación del resto de respuestas es facultativa.© 2013 Autocozar Extremadura S.L.U. Todos los derechos reservados. | Aviso legal | C/ Hojalateros,17. Cáceres – 10005–</strong></p>
+Datos de inscripción en el registro mercantil:
+Auto Cozar Extremadura S.L.U., sociedad [especificar] constituida en [especificar], en el año [especificar], por Escritura Pública número [especificar], ante el notario [especificar], del Ilustre Colegio de [especificar].
+Inscrita en el Registro Mercantil de [especificar] en el tomo [especificar], folio [especificar], sección [especificar] y hoja [especificar], inscripción [especificar].
+Datos relativos a la autorización administrativa previa para el ejercicio de la actividad:[especificar]
+Códigos de conducta a los que la empresa está adherida:[especificar]
+-->";s:12:"content_meta";N;}

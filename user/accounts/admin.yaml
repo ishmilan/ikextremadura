@@ -1,0 +1,22 @@
+email: isma.milan.marquez@gmail.com
+fullname: 'Ish Milan'
+title: Administrator
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$KqV6HPfUvNnBJuJ3qNJ.wenapZgErNwr.YbF5V8hx4EtGproKhyV.
+authorized: true
+twofa_secret: SYI3NS55EVVM7PMM7UQXSODQYRCHFDFH
+language: es
+twofa_enabled: false
+avatar:
+  user/accounts/avatars/jO7VmiSIYy1R5BJ.png:
+    name: jO7VmiSIYy1R5BJ.png
+    type: image/png
+    size: 442374
+    path: user/accounts/avatars/jO7VmiSIYy1R5BJ.png
+login_attempts: {  }

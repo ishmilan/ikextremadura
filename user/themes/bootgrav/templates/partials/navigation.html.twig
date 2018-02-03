@@ -1,0 +1,78 @@
+<div class="navbar navbar-wrapper fixed-top">
+	<style>
+
+.navbar li a{text-transform:uppercase;}
+.navbar.navbar-ikea{background-color:#FFE000;color:#003BFE;font-size:1.1rem;border-radius:0;box-shadow:0 0 4px #333;}
+.navbar.navbar-ikea, .navbar.navbar-ikea>.container, .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse,
+.container>.navbar-header, .navbar.navbar-ikea .nav.navbar-nav, .navbar.navbar-ikea .nav.navbar-nav a{min-height: 4rem;}
+.navbar-brand, .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{padding:0;margin:0;}
+.navbar.navbar-ikea .navbar-nav>li>a{padding:1.3rem 0.4rem;}
+.navbar.navbar-ikea .navbar-nav>li.active>a{cursor: not-allowed;color: #333 !important;background: #EEE;}
+.navbar-brand{width:calc(100% - 70px);height:4rem;position:relative;}
+.navbar-brand img{max-height:4rem;margin:0px;}
+.navbar-brand img.small{display:none;}
+.navbar-brand h1{padding-left: 0.3rem;font-size: 1.6rem;margin:0;margin-top:0.9rem;display:none;color:#003BFE;}
+.navbar-toggle.collapsed .icon-bar{background: #003BFE;}
+.navbar-toggle.collapsed:hover .icon-bar{filter: brightness(200%);}
+.navbar.navbar-wrapper.fixed-top{position:fixed;top:0;border:0;}
+.navbar-wrapper, .navbar-wrapper>.container-fluid{margin: 0;padding: 0;}
+@media(max-width:479px){
+	.navbar-brand img.big{display:none;}
+	.navbar-brand img.small{display:block;max-width:100%;position:absolute;top:50%;transform:translateY(-50%);}
+}
+@media(max-width:700px){
+	.navbar-collapse > .navbar-nav > li > a{margin:auto -15px;}
+}
+	</style>
+	<div class="container-fluid">
+		<nav class="navbar navbar-ikea navbar-static-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="{{ base_url }}" title="{{ site.title }}">
+						<img src="/images/logo.jpg" class="big"/>
+						<img src="/images/logo-s.jpg" class="small"/>
+						<h1>IKExtremadura</h1>
+					</a>
+				</div>
+				<div class="navbar-collapse collapse" id="navbar">
+					<ul class="nav navbar-nav navbar-right">
+						<li>
+							<a href="#inicio">Inicio</a>
+						</li>
+						<li>
+							<a href="#pedido">Pedidos</a>
+						</li>
+						<li>
+							<a href="#tarifas">Tarifas</a>
+						</li>
+						<li>
+							<a href="#garantia">Garantía</a>
+						</li>
+						<li>
+							<a href="#quien">Nosotros</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+</div>
+<script>
+	var click = navigator.userAgent.toLowerCase().match(/(iphone|ipod|ipad)/) ? 'touchstart' : 'click';
+	document.querySelector('.navbar-toggle.collapsed').addEventListener(click,function(){
+		document.querySelector('#navbar').classList.toggle('collapse');
+	});
+	var options = document.querySelectorAll('#navbar li > a');
+	for(var i=0;i<options.length;i++){
+		options[i].addEventListener(click,function(){
+			document.querySelector('#navbar').classList.toggle('collapse');
+		});
+	}
+</script>
+<!--{% for page in pages.children %} {% if page.visible %} {% set current_page = (page.active or page.activeChild) ? 'active' : '' %} <li class="{{ current_page }}"><a href="{{ page.url }}">{{ page.menu }}</a></li> {% endif %} {% endfor %}-->

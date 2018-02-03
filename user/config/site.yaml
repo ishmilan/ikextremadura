@@ -1,0 +1,17 @@
+title: IKExtremadura
+default_lang: es
+author:
+  name: 'Ish Milan'
+  email: info@ikextremadura.es
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Esta es la página Web personal de IKExtremadura Cáceres-Badajoz de Cáceres, M.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
